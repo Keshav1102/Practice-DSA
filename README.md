@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3447-clear-digits) |
 ## Simulation
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
