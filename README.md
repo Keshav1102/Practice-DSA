@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0838-design-linked-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
