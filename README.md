@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
+| [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3447-clear-digits) |
 ## Design
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
