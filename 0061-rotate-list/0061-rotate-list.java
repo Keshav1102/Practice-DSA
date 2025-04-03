@@ -14,7 +14,6 @@ class Solution {
             return head;
         }
         ListNode temp = head;
-        ListNode node = head;
         int count = 1;
         while(temp.next!=null){
             temp=temp.next;
