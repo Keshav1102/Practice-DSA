@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
 ## Monotonic Stack
 |  |
