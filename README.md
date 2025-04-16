@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
