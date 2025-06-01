@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -180,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
