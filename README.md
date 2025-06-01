@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
@@ -167,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0176-second-highest-salary) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2127-employees-whose-manager-left-the-company) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
