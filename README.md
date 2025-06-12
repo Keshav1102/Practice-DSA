@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [3194-find-words-containing-character](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
