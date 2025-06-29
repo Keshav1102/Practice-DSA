@@ -37,10 +37,11 @@ class Solution {
         int mid = sum/2;
         if(sum%2==0){
             ans=(c[mid-1]+c[mid]);
-            return ans/2;
+            ans/=2;
         }else{
-            return c[mid];
+            ans = c[mid];
         }
+        return ans;
         // for(int a:c){
         //     System.out.print(a+" ");
         // }
