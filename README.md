@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1646-kth-missing-positive-number) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
