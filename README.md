@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
