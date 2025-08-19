@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0202-happy-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0908-middle-of-the-linked-list) |
 | [2561-number-of-distinct-averages](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2561-number-of-distinct-averages) |
 ## Dynamic Programming
