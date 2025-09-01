@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 ## Bit Manipulation
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
