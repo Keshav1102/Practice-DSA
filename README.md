@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3447-clear-digits) |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0838-design-linked-list) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 ## String
 |  |
 | ------- |
