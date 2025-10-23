@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3447-clear-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
