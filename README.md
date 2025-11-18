@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1646-kth-missing-positive-number) |
+| [1848-sum-of-unique-elements](https://github.com/Keshav1102/Practice-DSA/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2048-build-array-from-permutation) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0822-unique-morse-code-words](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/Keshav1102/Practice-DSA/tree/master/1848-sum-of-unique-elements) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2561-number-of-distinct-averages](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2561-number-of-distinct-averages) |
 ## Linked List
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/Keshav1102/Practice-DSA/tree/master/1848-sum-of-unique-elements) |
 ## Number Theory
 |  |
 | ------- |
