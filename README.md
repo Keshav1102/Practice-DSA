@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0118-pascals-triangle) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Keshav1102/Practice-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
