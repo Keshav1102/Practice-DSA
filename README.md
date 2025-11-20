@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/Keshav1102/Practice-DSA/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/Keshav1102/Practice-DSA/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
