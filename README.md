@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Keshav1102/Practice-DSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Keshav1102/Practice-DSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3447-clear-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3447-clear-digits) |
