@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Keshav1102/Practice-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Keshav1102/Practice-DSA/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Keshav1102/Practice-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Keshav1102/Practice-DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0202-happy-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
