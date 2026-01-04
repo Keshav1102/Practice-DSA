@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keshav1102/Practice-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/Keshav1102/Practice-DSA/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Keshav1102/Practice-DSA/tree/master/1580-shuffle-the-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Keshav1102/Practice-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Keshav1102/Practice-DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0202-happy-number) |
+| [1390-four-divisors](https://github.com/Keshav1102/Practice-DSA/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
