@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Keshav1102/Practice-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0822-unique-morse-code-words](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Keshav1102/Practice-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1260-shift-2d-grid](https://github.com/Keshav1102/Practice-DSA/tree/master/1260-shift-2d-grid) |
 | [1390-four-divisors](https://github.com/Keshav1102/Practice-DSA/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Keshav1102/Practice-DSA/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Keshav1102/Practice-DSA/tree/master/1260-shift-2d-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Keshav1102/Practice-DSA/tree/master/2058-concatenation-of-array) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keshav1102/Practice-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Keshav1102/Practice-DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
