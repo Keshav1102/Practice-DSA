@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2561-number-of-distinct-averages) |
 | [3194-find-words-containing-character](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Keshav1102/Practice-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Keshav1102/Practice-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Keshav1102/Practice-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Keshav1102/Practice-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Keshav1102/Practice-DSA/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0389-find-the-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Keshav1102/Practice-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
 | ------- |
