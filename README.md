@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Keshav1102/Practice-DSA/tree/master/1848-sum-of-unique-elements) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Keshav1102/leetcodeSolutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2561-number-of-distinct-averages](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2561-number-of-distinct-averages) |
+| [2716-minimize-string-length](https://github.com/Keshav1102/Practice-DSA/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/Keshav1102/Practice-DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Keshav1102/leetcodeSolutions/tree/master/0822-unique-morse-code-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keshav1102/leetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2716-minimize-string-length](https://github.com/Keshav1102/Practice-DSA/tree/master/2716-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keshav1102/leetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
